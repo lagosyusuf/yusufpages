@@ -10,7 +10,7 @@
   <body>  
     <nav>
       <div class="logo">
-        <h3>YAAY Travel</h3>
+        <h3>Yusuf Agbeleshola Travel</h3>
       </div>
       <div class="navigation-bar">
         <ul>
